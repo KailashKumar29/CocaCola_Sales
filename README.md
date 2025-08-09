@@ -23,8 +23,8 @@ It allows retail managers and analysts to monitor **regional trends, delivery pe
 
 ## 📂 Files in this Repository
 - `CocaColaSales.pbix` → Power BI project file
-- `Retailer_Sales.png` → Dashboard screenshot
-- `dataset.xlsx` → Sample dataset (if shareable)
+- `Overview.png` → Dashboard screenshot
+- `Sales.xlsx` → Sample dataset (if shareable)
 
 ---
 
